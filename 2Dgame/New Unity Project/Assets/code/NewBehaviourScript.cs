@@ -6,7 +6,7 @@ public class NewBehaviourScript : MonoBehaviour
 {
     // Start is called before the first frame update
     int speed = 5;
-    int jumpForce = 800;
+    int jumpForce = 250;
     Rigidbody2D _rigidbody;
     Animator _animator;
 
