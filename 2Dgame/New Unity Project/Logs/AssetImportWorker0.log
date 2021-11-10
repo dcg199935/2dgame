@@ -1990,3 +1990,51 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1082.818429 seconds.
+  path: Assets/Scenes/LEVEL1.unity
+  artifactKey: Guid(dcb3730fe681e4b3aa4080ebe624149e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/LEVEL1.unity using Guid(dcb3730fe681e4b3aa4080ebe624149e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc7bb29381f06e73e24afceedb0ca1d4') in 0.012338 seconds 
+  Import took 0.016177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 335.071353 seconds.
+  path: Assets/Scenes/LEVEL2.unity
+  artifactKey: Guid(f985b0ab4dadf44cba4ac63386b2871e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/LEVEL2.unity using Guid(f985b0ab4dadf44cba4ac63386b2871e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec0bddd87ab09256dbed747737adae23') in 0.002043 seconds 
+  Import took 0.005535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1264.447484 seconds.
+  path: Assets/Scenes/LEVEL2.unity
+  artifactKey: Guid(f985b0ab4dadf44cba4ac63386b2871e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/LEVEL2.unity using Guid(f985b0ab4dadf44cba4ac63386b2871e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fefedc9d94ac11241f7bee14862a051') in 0.002627 seconds 
+  Import took 0.006527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.907917 seconds.
+  path: Assets/level2_assets
+  artifactKey: Guid(2e0916e87e5e44b5fa6ddc315454701c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/level2_assets using Guid(2e0916e87e5e44b5fa6ddc315454701c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88579bd54f8babadd4d3f2ef792c9c6b') in 0.003227 seconds 
+  Import took 0.006462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.331822 seconds.
+  path: Assets/level2_assets/TIMESSQUARE_1.png
+  artifactKey: Guid(80258b332718f4a92a0e6274da43c94b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/level2_assets/TIMESSQUARE_1.png using Guid(80258b332718f4a92a0e6274da43c94b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c5c68bec021b9749e2284732b96bb68') in 0.059965 seconds 
+  Import took 0.064598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 247.409321 seconds.
+  path: Assets/level2_assets/TIMESSQUARE_2.png
+  artifactKey: Guid(475c486f1b95146adaded18f58b70da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/level2_assets/TIMESSQUARE_2.png using Guid(475c486f1b95146adaded18f58b70da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5feb903402034a45874a0695da85b0d2') in 0.042966 seconds 
+  Import took 0.046798 seconds .
+
