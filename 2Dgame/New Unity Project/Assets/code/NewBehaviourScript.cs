@@ -44,6 +44,11 @@ public class NewBehaviourScript : MonoBehaviour
         {
             SceneManager.LoadScene(5);
         }
+
+        if (other.CompareTag("Bobba"))
+        {
+            Destroy(other.gameObject);
+        }
         
     }
 }

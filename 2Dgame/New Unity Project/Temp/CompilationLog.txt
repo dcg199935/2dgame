@@ -1,2 +1,28 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d583239e993af4aa5b18283f65f0fddf
+# Starting compiling UnityEngine.UI.dll
+/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0cf694d205c554d32b848ee661fc493c
+# Starting compiling Unity.InternalAPIEngineBridge.001.dll
+/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-dfb57051940ba48e8b3e1803af1997be
+# Starting compiling Unity.2D.PixelPerfect.dll
+/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e7137496a2cad4cc49b39560b3063b33
+# Starting compiling Unity.Timeline.dll
+/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-90afa127ae06d41cfb82f5cb35cf8453
+# Starting compiling Unity.TextMeshPro.dll
+/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-373c299f0b8e54cc9b4e7431dcf530be
+# Starting compiling Unity.Mathematics.dll
+/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ad41fbb61a01a44f7b8b551d383c8054
+# Starting compiling Unity.2D.IK.Runtime.dll
+/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6655d87aca9154d0f81226d033d80d4d
+# Starting compiling Unity.2D.Animation.Triangle.Runtime.dll
+/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e7e367a52e39644759c92dab8017b945
+# Starting compiling Unity.2D.Common.Runtime.dll
+/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f985fdcdbc9ad40ee8b6a123e8d92410
+# Starting compiling Cinemachine.dll
+/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f542b23a406184e55a0b4bb07c7e761b
+# Starting compiling Unity.2D.Animation.Runtime.dll
+/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-754f8fd1b140f4470b5f06d964c5287a
+# Starting compiling Unity.2D.SpriteShape.Runtime.dll
+/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9c45e22c27edf4c3cb8b459693db7944
 # Starting compiling Assembly-CSharp.dll
-/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a2448a8d52df142c697a2c82b94a6441
+/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-cd2420e9f2c3b4f4abc13ae11cd811a1
